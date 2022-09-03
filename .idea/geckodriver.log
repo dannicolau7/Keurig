@@ -1,0 +1,1241 @@
+1661212638671	geckodriver	INFO	Listening on 127.0.0.1:54599
+1661212641704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileieaGaP"
+1661212642268	Marionette	INFO	Marionette enabled
+1661212642273	Marionette	INFO	Listening on port 54609
+WebDriver BiDi listening on ws://localhost:54600
+Read port: 54609
+1661212642367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileieaGaP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54600/devtools/browser/7348a2c4-5ac5-47b5-a5da-3f1e4e8d5425
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661212646222	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661212646300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661212646301	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661212646864	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/NeoLmS/7R/so/2wdr/VLLEid2RRs/9uaQrmtmEQ/C0FERU8/Ll5aOkY/rZyc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661216688573	Marionette	INFO	Stopped listening on port 54609
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile5i5SBT"
+1661213518096	Marionette	INFO	Marionette enabled
+1661213518102	Marionette	INFO	Listening on port 55374
+WebDriver BiDi listening on ws://localhost:55365
+Read port: 55374
+1661213518185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile5i5SBT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55365/devtools/browser/cefbedec-d268-4c4f-94a0-8774f11d14f8
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661216690176	Marionette	INFO	Stopped listening on port 55374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661268196842	geckodriver	INFO	Listening on 127.0.0.1:52511
+1661268199911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilephIDBX"
+1661268200501	Marionette	INFO	Marionette enabled
+1661268200506	Marionette	INFO	Listening on port 52525
+WebDriver BiDi listening on ws://localhost:52512
+Read port: 52525
+1661268200598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilephIDBX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52512/devtools/browser/dce94261-bfce-4e4e-bcf3-0998423e9440
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661268205192	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268205437	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268205586	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268205683	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268208207	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268210404	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268400448	Marionette	INFO	Stopped listening on port 52525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilerf4h7s"
+1661268247406	Marionette	INFO	Marionette enabled
+1661268247411	Marionette	INFO	Listening on port 52803
+WebDriver BiDi listening on ws://localhost:52790
+Read port: 52803
+1661268247518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilerf4h7s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52790/devtools/browser/6a890aa0-cdd0-44bb-92db-86f5b541addd
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661268252308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268252579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268252931	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268252986	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661268257350	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268398774	Marionette	INFO	Stopped listening on port 52803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilei8byZi"
+1661268301051	Marionette	INFO	Marionette enabled
+1661268301057	Marionette	INFO	Listening on port 53108
+WebDriver BiDi listening on ws://localhost:53094
+Read port: 53108
+1661268301252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilei8byZi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53094/devtools/browser/2353c607-6139-428a-84c9-ae4eeee699aa
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661268306762	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268307050	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268307357	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268307475	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268311581	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268396889	Marionette	INFO	Stopped listening on port 53108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661268414881	geckodriver	INFO	Listening on 127.0.0.1:53465
+1661268417934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileT82Sr3"
+1661268418354	Marionette	INFO	Marionette enabled
+1661268418358	Marionette	INFO	Listening on port 53477
+WebDriver BiDi listening on ws://localhost:53466
+Read port: 53477
+1661268418456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileT82Sr3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53466/devtools/browser/1e689c1a-d2af-47ac-b79b-9a8b7aa1936a
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661268423337	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268423621	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268423796	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268423879	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268427558	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268428310	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661269082366	Marionette	INFO	Stopped listening on port 53477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Marionette	INFO	Listening on port 53766
+Read port: 53766
+WebDriver BiDi listening on ws://localhost:53752
+1661268441926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileFC4NNB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53752/devtools/browser/34392c8b-c93e-44cc-b36a-ed1d0a2d7d79
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268446651	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661268446869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268447091	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268447350	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661268451517	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661269074509	Marionette	INFO	Stopped listening on port 53766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Marionette	INFO	Listening on port 55009
+WebDriver BiDi listening on ws://localhost:54998
+Read port: 55009
+1661268708701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile4qhfiT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54998/devtools/browser/f5059a97-d1d4-401d-9107-5ebbc2f50096
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268713877	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268714273	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268714531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268714540	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268718045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268718563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661269003773	Marionette	INFO	Stopped listening on port 55009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileyAju13"
+1661268848727	Marionette	INFO	Marionette enabled
+1661268848732	Marionette	INFO	Listening on port 55944
+WebDriver BiDi listening on ws://localhost:55932
+Read port: 55944
+1661268848827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileyAju13\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55932/devtools/browser/05b6b3a9-03fc-4b99-9e47-9a8f84886077
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268853417	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268853749	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268854102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1661268854315	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268858503	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268858584	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661268862465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268862466	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268862467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268862530	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661269003196	Marionette	INFO	Stopped listening on port 55944
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileLPH7jJ"
+1661268931031	Marionette	INFO	Marionette enabled
+1661268931037	Marionette	INFO	Listening on port 56272
+WebDriver BiDi listening on ws://localhost:56258
+Read port: 56272
+1661268931124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileLPH7jJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56258/devtools/browser/b5b91999-f965-487d-b028-5fba22b63efd
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661268936263	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661268936586	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268936930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661268936957	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661268941256	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661269002577	Marionette	INFO	Stopped listening on port 56272
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661269378879	geckodriver	INFO	Listening on 127.0.0.1:57263
+1661269381957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilemODAjb"
+1661269382385	Marionette	INFO	Marionette enabled
+1661269382391	Marionette	INFO	Listening on port 57276
+WebDriver BiDi listening on ws://localhost:57264
+Read port: 57276
+1661269382490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilemODAjb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57264/devtools/browser/f97c7d7b-7e06-4380-b43f-f4570bd0620d
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661269387415	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661269387506	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661269387633	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661269387750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661269392455	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661274899706	Marionette	INFO	Stopped listening on port 57276
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofilejGDrsy"
+1661269415352	Marionette	INFO	Marionette enabled
+1661269415356	Marionette	INFO	Listening on port 57548
+WebDriver BiDi listening on ws://localhost:57536
+Read port: 57548
+1661269415459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilejGDrsy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57536/devtools/browser/17311fb6-8929-487e-90f3-18c233fccf2b
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661274900861	Marionette	INFO	Stopped listening on port 57548
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileRMDeqs"
+1661269500688	Marionette	INFO	Marionette enabled
+1661269500693	Marionette	INFO	Listening on port 57795
+WebDriver BiDi listening on ws://localhost:57782
+Read port: 57795
+1661269500795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileRMDeqs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57782/devtools/browser/79068758-0eec-480c-aab7-59f03513a4f1
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661269506007	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661269506308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661269506464	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661269506522	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661274902025	Marionette	INFO	Stopped listening on port 57795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofiletgvvKn"
+1661270785214	Marionette	INFO	Marionette enabled
+1661270785218	Marionette	INFO	Listening on port 59605
+WebDriver BiDi listening on ws://localhost:59592
+Read port: 59605
+1661270785315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofiletgvvKn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59592/devtools/browser/9b4e9bff-87bc-43f0-ae22-a3f4ae2c50c5
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272800467	Marionette	INFO	Stopped listening on port 59605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofilecvryiP"
+1661270826145	Marionette	INFO	Marionette enabled
+1661270826150	Marionette	INFO	Listening on port 59718
+WebDriver BiDi listening on ws://localhost:59705
+Read port: 59718
+1661270826252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilecvryiP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59705/devtools/browser/fc312ef4-861f-448c-a608-2056d8260330
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661270835738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661270835999	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661270836331	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661270836450	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661270840729	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272798595	Marionette	INFO	Stopped listening on port 59718
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilevQcJUR"
+1661270870325	Marionette	INFO	Marionette enabled
+1661270870330	Marionette	INFO	Listening on port 60008
+WebDriver BiDi listening on ws://localhost:59994
+Read port: 60008
+1661270870434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilevQcJUR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59994/devtools/browser/9775038b-3c74-4ca6-84ed-30e47f720ea9
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272796875	Marionette	INFO	Stopped listening on port 60008
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile9hnyRX"
+1661270898698	Marionette	INFO	Marionette enabled
+1661270898704	Marionette	INFO	Listening on port 60111
+WebDriver BiDi listening on ws://localhost:60099
+Read port: 60111
+1661270898794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile9hnyRX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60099/devtools/browser/5c84fcfc-18ae-4c46-af73-d605a362268b
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661270904046	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661270904234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661270904300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661270904385	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661270908563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272796296	Marionette	INFO	Stopped listening on port 60111
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 33036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofileIoDFKh"
+1661271102243	Marionette	INFO	Marionette enabled
+1661271102248	Marionette	INFO	Listening on port 53750
+WebDriver BiDi listening on ws://localhost:53736
+Read port: 53750
+1661271102336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileIoDFKh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53736/devtools/browser/168bc77d-f046-4c62-942b-da568b8512c2
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661271107503	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271107769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661271110562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271110563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271110664	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661271111062	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661271152288	Marionette	INFO	Stopped listening on port 53750
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661271153657	geckodriver	INFO	Listening on 127.0.0.1:54041
+1661271156700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilekPILYS"
+1661271157136	Marionette	INFO	Marionette enabled
+1661271157141	Marionette	INFO	Listening on port 54058
+WebDriver BiDi listening on ws://localhost:54042
+Read port: 54058
+1661271157239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilekPILYS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54042/devtools/browser/91c326de-4e26-4d1e-95dd-55d338ee04b9
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661271162509	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271162654	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271162782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271163071	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271166787	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272795538	Marionette	INFO	Stopped listening on port 54058
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilepu0dWh"
+1661271778427	Marionette	INFO	Marionette enabled
+1661271778432	Marionette	INFO	Listening on port 55162
+WebDriver BiDi listening on ws://localhost:55150
+Read port: 55162
+1661271778522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilepu0dWh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55150/devtools/browser/590ddca4-da02-4df8-9338-0881e8175c8b
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661271901163	Marionette	INFO	Stopped listening on port 55162
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileZ5pCRU"
+1661271807180	Marionette	INFO	Marionette enabled
+1661271807185	Marionette	INFO	Listening on port 55366
+WebDriver BiDi listening on ws://localhost:55352
+Read port: 55366
+1661271807423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileZ5pCRU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55352/devtools/browser/0f99133a-1142-4843-bfd9-5d92b9d9213f
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661271812473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271812713	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271812771	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271813008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271816620	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://static-ph.custhelp.com/s/oit/latest/common/v0/libs/requirejs/require.js?v=1657048294416, line 5: Error: Script error for "oit-wc-oracle-ui-form/resources/nls/root/strings"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static-ph.custhelp.com/s/oit/latest/common/v0/libs/requirejs/require.js?v=1657048294416, line 5: Error: Script error for "oit-wc-oit-chat-bubble/resources/nls/root/strings"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static-ph.custhelp.com/s/oit/latest/common/v0/libs/requirejs/require.js?v=1657048294416, line 5: Error: Script error for "ojtranslations/nls/en/localeElements"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static-ph.custhelp.com/s/oit/latest/common/v0/libs/requirejs/require.js?v=1657048294416, line 5: Error: Script error for "oit-wc-oit-overlay/resources/nls/root/strings"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661271899021	Marionette	INFO	Stopped listening on port 55366
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile2IqSOF"
+1661271863321	Marionette	INFO	Marionette enabled
+1661271863326	Marionette	INFO	Listening on port 55725
+WebDriver BiDi listening on ws://localhost:55714
+Read port: 55725
+1661271863422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile2IqSOF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55714/devtools/browser/482e67f5-f925-4434-856d-f20b9aa87385
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271869407	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271869644	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1661271869832	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271869833	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661271874301	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271897736	Marionette	INFO	Stopped listening on port 55725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 36288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661271899075	geckodriver	INFO	Listening on 127.0.0.1:56001
+1661271902108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilea4W715"
+1661271902596	Marionette	INFO	Marionette enabled
+1661271902601	Marionette	INFO	Listening on port 56023
+WebDriver BiDi listening on ws://localhost:56002
+Read port: 56023
+1661271902788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilea4W715\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56002/devtools/browser/f3a45cb9-7e31-4821-a2c4-729d05d604c6
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271908620	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661271912215	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661271912640	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271912721	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271913094	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661272794989	Marionette	INFO	Stopped listening on port 56023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile2eGvBm"
+1661271949467	Marionette	INFO	Marionette enabled
+1661271949472	Marionette	INFO	Listening on port 56322
+WebDriver BiDi listening on ws://localhost:56306
+Read port: 56322
+1661271949619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile2eGvBm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56306/devtools/browser/30b7afcb-dd2b-45a6-b7fb-fc30bee47aa6
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/maintenance/support/ee_script-flow_v4.2.js, line 127: ReferenceError: ee_innerDoc is not defined
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272064629	Marionette	INFO	Stopped listening on port 56322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileWzPqbP"
+1661271985784	Marionette	INFO	Marionette enabled
+1661271985789	Marionette	INFO	Listening on port 56567
+WebDriver BiDi listening on ws://localhost:56554
+Read port: 56567
+1661271986041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileWzPqbP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56554/devtools/browser/8566abb2-d42d-4f01-8bfd-74ffc8a9c83c
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661271990674	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271990853	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271991024	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661271991160	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661271995194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272063897	Marionette	INFO	Stopped listening on port 56567
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofilepu1Tix"
+1661272016697	Marionette	INFO	Marionette enabled
+1661272016702	Marionette	INFO	Listening on port 56998
+WebDriver BiDi listening on ws://localhost:56986
+Read port: 56998
+1661272016946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilepu1Tix\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56986/devtools/browser/44b6b919-6cd2-495d-b792-978978299ae2
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272021757	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661272021985	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272022053	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661272024662	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272024663	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272024676	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661272025055	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272063115	Marionette	INFO	Stopped listening on port 56998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661272193700	geckodriver	INFO	Listening on 127.0.0.1:57440
+1661272196744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileoWED3C"
+1661272197177	Marionette	INFO	Marionette enabled
+1661272197183	Marionette	INFO	Listening on port 57454
+WebDriver BiDi listening on ws://localhost:57441
+Read port: 57454
+1661272197270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileoWED3C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57441/devtools/browser/e5dd17f6-3bd6-44d6-91ae-a7659cfd4c02
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272201770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272202029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661272202074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661272202177	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://zn1wupqbzyftkeju9-keurig2.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_1WUpQbZyfTkEjU9&Q_LOC=https%3A%2F%2Fwww.keurig.com%2F, line 3: Error: Loading chunk 11 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/11.538b4e05effab334888e.chunk.js?Q_CLIENTVERSION=1.76.0&Q_CLIENTTYPE=web&Q_BRANDID=www.keurig.com)
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661272205102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272205106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272205107	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272205166	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272794456	Marionette	INFO	Stopped listening on port 57454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileGSsHxE"
+1661272226856	Marionette	INFO	Marionette enabled
+1661272226861	Marionette	INFO	Listening on port 57732
+WebDriver BiDi listening on ws://localhost:57718
+Read port: 57732
+1661272226954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileGSsHxE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57718/devtools/browser/affec5a9-a6b4-4b89-adb1-c2e04cc5d41d
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272793911	Marionette	INFO	Stopped listening on port 57732
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileZEnFkb"
+1661272261899	Marionette	INFO	Marionette enabled
+1661272261904	Marionette	INFO	Listening on port 58003
+WebDriver BiDi listening on ws://localhost:57991
+Read port: 58003
+1661272261995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileZEnFkb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57991/devtools/browser/b9a8f5fe-e574-4ed7-9f96-53d9181029a0
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272268713	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272268716	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272270083	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272270084	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661272272769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272793384	Marionette	INFO	Stopped listening on port 58003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileIH7p2V"
+1661272292056	Marionette	INFO	Marionette enabled
+1661272292061	Marionette	INFO	Listening on port 58271
+WebDriver BiDi listening on ws://localhost:58258
+Read port: 58271
+1661272292169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileIH7p2V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58258/devtools/browser/598327b1-46e7-4066-a60a-eb49523305f7
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272297401	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272297579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272297874	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272298126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272303386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661272304163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661272304235	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661274895562	Marionette	INFO	Stopped listening on port 58271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilem8va1I"
+1661272328745	Marionette	INFO	Marionette enabled
+1661272328751	Marionette	INFO	Listening on port 58555
+WebDriver BiDi listening on ws://localhost:58544
+Read port: 58555
+1661272328846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilem8va1I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58544/devtools/browser/83e32dd3-9b0a-4dc2-bf0a-72d583cdc1e6
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272334096	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272334479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272334871	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272334872	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661272338789	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272792659	Marionette	INFO	Stopped listening on port 58555
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileISJCzY"
+1661272370998	Marionette	INFO	Marionette enabled
+1661272371003	Marionette	INFO	Listening on port 58839
+WebDriver BiDi listening on ws://localhost:58826
+Read port: 58839
+1661272371099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileISJCzY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58826/devtools/browser/257a2076-8368-42f7-a3e6-766467f8f52c
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272375615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272375792	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272375978	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1661272377829	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661272380416	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272792048	Marionette	INFO	Stopped listening on port 58839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile7HMon5"
+1661272397988	Marionette	INFO	Marionette enabled
+1661272397992	Marionette	INFO	Listening on port 59094
+WebDriver BiDi listening on ws://localhost:59082
+Read port: 59094
+1661272398083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile7HMon5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59082/devtools/browser/78965929-e581-427c-bfa5-da87a291e8e2
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272403244	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272403483	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272403809	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272403899	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272407783	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661272411458	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272411459	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272411459	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272411517	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272791113	Marionette	INFO	Stopped listening on port 59094
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileAwaIFU"
+1661272445183	Marionette	INFO	Marionette enabled
+1661272445188	Marionette	INFO	Listening on port 59383
+WebDriver BiDi listening on ws://localhost:59368
+Read port: 59383
+1661272445277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileAwaIFU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59368/devtools/browser/164637c5-57a7-45fa-a9a1-d47e915880f8
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272450503	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272790467	Marionette	INFO	Stopped listening on port 59383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilePcFNJs"
+1661272475743	Marionette	INFO	Marionette enabled
+1661272475749	Marionette	INFO	Listening on port 59626
+WebDriver BiDi listening on ws://localhost:59614
+Read port: 59626
+1661272475861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilePcFNJs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59614/devtools/browser/126bd02b-900c-4c93-9f1e-87d2b410041a
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272789838	Marionette	INFO	Stopped listening on port 59626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile7GqKBv"
+1661272502227	Marionette	INFO	Marionette enabled
+1661272502231	Marionette	INFO	Listening on port 59733
+WebDriver BiDi listening on ws://localhost:59721
+Read port: 59733
+1661272502322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile7GqKBv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59721/devtools/browser/f173b2ac-7d97-4019-aa5d-34a55fcbd35b
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272507034	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272507202	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272507366	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272507545	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661272511848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272789222	Marionette	INFO	Stopped listening on port 59733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilelXfPFo"
+1661272586520	Marionette	INFO	Marionette enabled
+1661272586525	Marionette	INFO	Listening on port 60100
+WebDriver BiDi listening on ws://localhost:60086
+Read port: 60100
+1661272586617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilelXfPFo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60086/devtools/browser/0ded9902-29b8-4997-8ad6-516e31797b67
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272592763	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272592912	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661272788642	Marionette	INFO	Stopped listening on port 60100
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileT9PyQB"
+1661272724617	Marionette	INFO	Marionette enabled
+1661272724622	Marionette	INFO	Listening on port 60489
+WebDriver BiDi listening on ws://localhost:60477
+Read port: 60489
+1661272724870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileT9PyQB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60477/devtools/browser/f4f95021-6b53-4281-8473-00ad0c9031a4
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661272729895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272730030	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272730198	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661272730368	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661272733865	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661274903218	Marionette	INFO	Stopped listening on port 60489
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilelaAdgK"
+1661272771410	Marionette	INFO	Marionette enabled
+1661272771418	Marionette	INFO	Listening on port 60827
+WebDriver BiDi listening on ws://localhost:60807
+Read port: 60827
+1661272771533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilelaAdgK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60807/devtools/browser/a47d1f8f-ba22-4150-9d8e-f865c239369a
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661274904384	Marionette	INFO	Stopped listening on port 60827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofiletvT6Y3"
+1661273328579	Marionette	INFO	Marionette enabled
+1661273328583	Marionette	INFO	Listening on port 61771
+WebDriver BiDi listening on ws://localhost:61760
+Read port: 61771
+1661273328832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofiletvT6Y3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61760/devtools/browser/de9b1290-a754-4236-8ac2-7e4dbcd00b84
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661273333526	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661273334006	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273334131	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273334200	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661273338379	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273368065	Marionette	INFO	Stopped listening on port 61771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilegqjQ2X"
+1661273364610	Marionette	INFO	Marionette enabled
+1661273364614	Marionette	INFO	Listening on port 62054
+WebDriver BiDi listening on ws://localhost:62042
+Read port: 62054
+1661273364701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofilegqjQ2X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62042/devtools/browser/8c5efe4b-ce83-4a00-90c2-8ae13cec0b07
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661273372523	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273372693	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273372792	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273372797	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661273565372	Marionette	INFO	Stopped listening on port 62054
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileUWdDaW"
+1661273405607	Marionette	INFO	Marionette enabled
+1661273405612	Marionette	INFO	Listening on port 62355
+WebDriver BiDi listening on ws://localhost:62336
+Read port: 62355
+1661273405851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileUWdDaW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62336/devtools/browser/4a566f5c-af47-46c6-9130-be1e5b08e63d
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661273411441	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273411613	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661273411828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273411974	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661273416001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661273564490	Marionette	INFO	Stopped listening on port 62355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileU5kznT"
+1661273437002	Marionette	INFO	Marionette enabled
+1661273437007	Marionette	INFO	Listening on port 62794
+WebDriver BiDi listening on ws://localhost:62781
+Read port: 62794
+1661273437096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofileU5kznT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62781/devtools/browser/16254245-4ac2-4236-90ee-ff915bf34d7a
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661273441946	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661273442268	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273442269	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273442444	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661273444913	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273444927	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273444928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273444979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661273563900	Marionette	INFO	Stopped listening on port 62794
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile9N4Oa8"
+1661273491451	Marionette	INFO	Marionette enabled
+1661273491455	Marionette	INFO	Listening on port 63121
+Read port: 63121
+WebDriver BiDi listening on ws://localhost:63109
+1661273491555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile9N4Oa8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63109/devtools/browser/fa1b2b18-6d95-4f0f-ba6e-e7019df4f0c9
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661273497620	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273497841	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273498046	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273498046	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661273502280	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661273503524	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+1661273563369	Marionette	INFO	Stopped listening on port 63121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile2COFwN"
+1661273527771	Marionette	INFO	Marionette enabled
+1661273527777	Marionette	INFO	Listening on port 63564
+WebDriver BiDi listening on ws://localhost:63551
+Read port: 63564
+1661273527877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danicola\\AppData\\Local\\Temp\\rust_mozprofile2COFwN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63551/devtools/browser/b049509f-500f-4ac6-9d11-738a13cf8b93
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+1661273532616	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273532766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1661273532923	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661273533120	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661273537456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+1661273538677	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/externalJS/content.js, line 5: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/ line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.keurig.com/_ui/desktop/common/js/gmcr-fed-autodelivery-us.min.js?bd=20220822_2213, line 4: ReferenceError: contextPath is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.keurig.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://static-ph.custhelp.com/s/oit/latest/inlays/oracle/chat-embedded/inlay.js?v=1657048294416, line 1331: TypeError: s.parseJSONFromFontFamily(...) is null
+JavaScript error: https://static-ph.custhelp.com/s/oit/latest/inlays/oracle/chat-embedded/inlay.js?v=1657048294416, line 1299: TypeError: a.parseJSONFromFontFamily(...) is null
+JavaScript error: https://www.keurig.com/my-account/my-replenishment line 5 > injectedScript, line 1: TypeError: utag_data['dom.title'].match(...) is null
+JavaScript warning: https://www.keurig.com/HoyoGKMgBi/6Nk8/SN3asT/u71fbmwQ/ZHE1PQ/ND59Qy/lJcGA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661273562764	Marionette	INFO	Stopped listening on port 63564
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
